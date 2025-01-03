@@ -22,7 +22,6 @@ I'm an aspiring full-stack web developer and computer scientist, dedicated to co
 
 
 
-
 ## Projects
 - [SJC CompSci](https://github.com/Simpleboi/computer_science_club): A Website for the SJC South campus Computer Science Club.
 - [SparkCSS](https://sparkcss.netlify.app/): a CSS preprocessor that combines SCSS-like features with utility classes similar to Tailwind
@@ -42,9 +41,9 @@ I'm an aspiring full-stack web developer and computer scientist, dedicated to co
 
 ## 🌐 Contact Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n8.p03/)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n8.jsx/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n8thegr8@gmail.com)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/n8DotJsx)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@N8DotJsx/videos)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DCszF2VrSm)
 
 ## Inspring Quote
