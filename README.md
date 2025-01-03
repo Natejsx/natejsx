@@ -25,7 +25,9 @@ I'm an aspiring full-stack web developer and computer scientist, dedicated to co
 
 ## Projects
 - [SJC CompSci](https://github.com/Simpleboi/computer_science_club): A Website for the SJC South campus Computer Science Club.
-- [Jeopardy Clone](https://github.com/username/jeopardy-game): A trivia game that tests users' programming knowledge across multiple categories like HTML, CSS, and Python.
+- [SparkCSS](https://sparkcss.netlify.app/): a CSS preprocessor that combines SCSS-like features with utility classes similar to Tailwind
+- [FireSpark](https://firespark.netlify.app/) | A framework-agnostic component library made to speed up web development with UI components.
+- [Neutron](https://github.com/Simpleboi/Neutron) | A modern web browser built with electron.js
 
 ## GitHub Stats
 ![SimpleBoi](https://github-readme-stats.vercel.app/api?username=SimpleBoi&show_icons=true&theme=radical)
@@ -34,9 +36,9 @@ I'm an aspiring full-stack web developer and computer scientist, dedicated to co
 - A web platform called "SimplyPi" where users can download course materials and PDFs on topics like Algebra and Calculus.
 
 ## 🌱 Currently Learning
-- React Routing 
-- SSR
-- Typescript
+- TailwindCSS 
+- Next.js
+- Express.js
 
 ## 🌐 Contact Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
