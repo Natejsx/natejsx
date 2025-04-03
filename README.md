@@ -23,8 +23,8 @@ I'm an aspiring full-stack web developer and computer scientist, dedicated to co
 
 
 ## Projects
-- [SJC CompSci](https://github.com/Simpleboi/computer_science_club): A Website for the SJC South campus Computer Science Club.
-- [SparkCSS](https://sparkcss.netlify.app/): a CSS preprocessor that combines SCSS-like features with utility classes similar to Tailwind
+- [SJC CompSci](https://github.com/Simpleboi/computer_science_club) | A Website for the SJC South campus Computer Science Club.
+- [SparkCSS](https://sparkcss.netlify.app/) | a CSS preprocessor that combines SCSS-like features with utility classes similar to Tailwind
 - [FireSpark](https://firespark.netlify.app/) | A framework-agnostic component library made to speed up web development with UI components.
 - [Neutron](https://github.com/Simpleboi/Neutron) | A modern web browser built with electron.js
 
@@ -37,7 +37,6 @@ I'm an aspiring full-stack web developer and computer scientist, dedicated to co
 ## 🌱 Currently Learning
 - TailwindCSS 
 - Next.js
-- Express.js
 
 ## 🌐 Contact Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
