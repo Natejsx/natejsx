@@ -2,7 +2,7 @@
 
 # About Me:
 **`Web Developer & Computer Scientist`**<br/>
-I'm an aspiring full-stack web developer and computer scientist, dedicated to contributing to the digital world one line of code at a time. My journey began in my sophomore year of high school when I took AP Computer Science, and from there, I developed a deep love for programming. Since then, I've continued to grow, learning and building as I go. I've won first place at my junior year BPA competion in Python Programming and competed in numerous programming competitions since. Currently, I am a sophomore in College, majoring in Computer Science. I'm actively involved in my field, serving as the President of the Computer Science Club on my South Campus, and I'm also a co-owner of the SJC Computer Science Organization. 
+I'm an aspiring full-stack web developer and computer scientist, dedicated to contributing to the digital world one line of code at a time. My journey began in my sophomore year of high school when I took AP Computer Science, and from there, I developed a deep love for programming. Since then, I've continued to grow, learning and building as I go. Currently, I am a sophomore in College, majoring in Computer Science. I'm actively involved in my field, serving as the President of the Computer Science Club on my South Campus, and I'm also a co-owner of the SJC Computer Science Organization. 
 <br/>
 ## 💻 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,20 +23,21 @@ I'm an aspiring full-stack web developer and computer scientist, dedicated to co
 
 
 ## Projects
-- [SJC CompSci](https://github.com/Simpleboi/computer_science_club) | A Website for the SJC South campus Computer Science Club.
+- [JournalXP](https://github.com/Simpleboi/JournalXP) | A gameified mental health journaling app that rewards users with XP for completing self-care tasks, tracking thier mood, etc.
 - [SparkCSS](https://sparkcss.netlify.app/) | a CSS preprocessor that combines SCSS-like features with utility classes similar to Tailwind
 - [FireSpark](https://firespark.netlify.app/) | A framework-agnostic component library made to speed up web development with UI components.
-- [Neutron](https://github.com/Simpleboi/Neutron) | A modern web browser built with electron.js
+- [Genesis](https://github.com/Simpleboi/Genesis) | A general-purpose programming language designed with a focus on web development.
 
 ## GitHub Stats
 ![SimpleBoi](https://github-readme-stats.vercel.app/api?username=SimpleBoi&show_icons=true&theme=radical)
 
 ## 🔭 Current Project I'm Working On 
-- A web platform called "SimplyPi" where users can download course materials and PDFs on topics like Algebra and Calculus.
+- I'm currently working on JournalXP to add more features that can encourage users. 
 
 ## 🌱 Currently Learning
 - TailwindCSS 
-- Next.js
+- API Handling
+- Back-end Development
 
 ## 🌐 Contact Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
