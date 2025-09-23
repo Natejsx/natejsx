@@ -23,8 +23,8 @@ I'm an aspiring full-stack web developer and computer scientist, dedicated to co
 
 
 ## Projects
-- [JournalXP](https://github.com/Simpleboi/JournalXP) | A gameified mental health journaling app that rewards users with XP for completing self-care tasks, tracking thier mood, etc.
-- [SparkCSS](https://sparkcss.netlify.app/) | a CSS preprocessor that combines SCSS-like features with utility classes similar to Tailwind
+- [JournalXP](https://journalxp.com) | A gameified mental health journaling app that rewards users with XP for completing self-care tasks, tracking thier mood, etc.
+- [SparkCSS](https://sparkcss.netlify.app/) | A CSS preprocessor that combines SCSS-like features with utility classes similar to Tailwind
 - [FireSpark](https://firespark.netlify.app/) | A framework-agnostic component library made to speed up web development with UI components.
 - [Genesis](https://github.com/Simpleboi/Genesis) | A general-purpose programming language designed with a focus on web development.
 
