@@ -2,9 +2,11 @@
 
 # About Me:
 **`Full-stack Web Developer & Computer Science Student`**<br/>
-I’m a web developer passionate about building intuitive user experiences, scalable systems, and tools that make other developers faster. I specialize in React, TypeScript, Node.js, and modern frontend engineering, and I’ve built full-stack applications, CSS frameworks, and even a custom programming language.
+I’m a web developer focused on building intuitive user experiences, scalable systems, and tools that help developers work faster and more effectively. I specialize in React, TypeScript, Node.js, and modern frontend engineering, and I’ve built everything from full-stack web applications and custom CSS frameworks to a fully transpiled programming language.
 
-Currently, I’m pursuing a degree in Computer Science and serving as President of the Computer Science Organization at my college, where I lead workshops, projects, and community events that help students level up in software engineering. 
+I’m currently pursuing a Bachelor’s degree in Computer Science, after earning my Associate of Science in Computer Science. During my time at San Jacinto College, I served as President of the Computer Science Organization, where I led workshops, collaborative projects, and community events designed to help students grow as software engineers.
+
+I also worked as a Student Instructor for Programming I & II, providing one-on-one support, debugging assistance, and clear explanations of core programming concepts. In this role, I developed hands-on exercises and mini-projects, delivered select lectures, and led lab sessions with live coding to help students bridge the gap between theory and real-world application. 
 <br/>
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
