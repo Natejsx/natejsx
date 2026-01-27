@@ -30,7 +30,7 @@ I also worked as a Student Instructor for Programming I & II, providing one-on-o
 - [Genesis](https://github.com/Simpleboi/Genesis) | A general-purpose programming language designed with a focus on web development.
 
 ## GitHub Stats
-![SimpleBoi](https://github-readme-stats.vercel.app/api?username=SimpleBoi&show_icons=true&theme=radical)
+![SimpleBoi](https://github-readme-stats.vercel.app/api?username=Natejsx&show_icons=true&theme=radical)
 
 ## 🔭 Current Project I'm Working On 
 - Expanding JournalXP with insights, analytics, and new UX flows
