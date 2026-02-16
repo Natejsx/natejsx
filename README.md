@@ -26,7 +26,6 @@ I also worked as a Student Instructor for Programming I & II, providing one-on-o
 
 ## Projects
 - [JournalXP](https://journalxp.com) | Full-stack mental health journaling app built with React, TypeScript, Express, and Firebase. Includes authentication, mood insights, secure data sync, journaling analytics, and AI-powered prompts.
-- [SparkCSS](https://sparkcss.netlify.app/) | A CSS preprocessor that combines SCSS-like features with utility classes similar to Tailwind
 - [Genesis](https://github.com/Simpleboi/Genesis) | A general-purpose programming language designed with a focus on web development.
 
 ## GitHub Stats
@@ -34,15 +33,16 @@ I also worked as a Student Instructor for Programming I & II, providing one-on-o
 
 ## 🔭 Current Project I'm Working On 
 - Expanding JournalXP with insights, analytics, and new UX flows
-- Improving SparkCSS with more components and themes 
+- Pyra.js - A full-stack framework for building optimzed full-stack web applications
 
 ## 🌱 Currently Learning
 - Backend architecture & API design
-- Systems design fundamentals
+- Systems design Patterns
 - Advanced React patterns
+- Rendering Patterns
 
 ## 🌐 Contact Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/nathaniel-paz-182470386/))
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nate.jsx/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natejsx@gmail.com)
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@N8DotJsx/videos)
