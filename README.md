@@ -1,6 +1,3 @@
-## Good Morning!👋 
-
-# About Me:
 **`Full-stack Web Developer & Computer Science Student`**<br/>
 I’m a web developer focused on building intuitive user experiences, scalable systems, and tools that help developers work faster and more effectively. I specialize in React, TypeScript, Node.js, and modern frontend engineering, and I’ve built everything from full-stack web applications and custom CSS frameworks to a fully transpiled programming language.
 
