@@ -24,23 +24,6 @@ I also worked as a Student Instructor for Programming I & II, providing one-on-o
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
-## Projects
-- [JournalXP](https://journalxp.com) | Full-stack mental health journaling app built with React, TypeScript, Express, and Firebase. Includes authentication, mood insights, secure data sync, journaling analytics, and AI-powered prompts.
-- [Genesis](https://github.com/Simpleboi/Genesis) | A general-purpose programming language designed with a focus on web development.
-
-## GitHub Stats
-![SimpleBoi](https://github-readme-stats.vercel.app/api?username=Natejsx&show_icons=true&theme=radical)
-
-## 🔭 Current Project I'm Working On 
-- Expanding JournalXP with insights, analytics, and new UX flows
-- Pyra.js - A full-stack framework for building optimzed full-stack web applications
-
-## 🌱 Currently Learning
-- Backend architecture & API design
-- Systems design Patterns
-- Advanced React patterns
-- Rendering Patterns
-
 ## 🌐 Contact Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/nathaniel-paz-182470386/))
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nate.jsx/)
@@ -48,22 +31,3 @@ I also worked as a Student Instructor for Programming I & II, providing one-on-o
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@N8DotJsx/videos)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DCszF2VrSm)
 
-## 🧩 Fun Fact
-I solve Rubik’s Cubes competitively, I love playing chess, and working out, anything that pushes my mind or body to grow.
-
-## Inspring Quote
-> “The best way to predict the future is to create it.” — Alan Kay
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
