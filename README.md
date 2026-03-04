@@ -21,6 +21,12 @@ I also worked as a Student Instructor for Programming I & II, providing one-on-o
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
+## Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Natejsx&theme=tokyonight)
+
+## Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Natejsx&theme=tokyo-night)
+
 ## 🌐 Contact Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/nathaniel-paz-182470386/))
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nate.jsx/)
