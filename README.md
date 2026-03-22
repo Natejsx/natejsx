@@ -34,3 +34,4 @@ I also worked as a Student Instructor for Programming I & II, providing one-on-o
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@N8DotJsx/videos)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DCszF2VrSm)
 
+have a blessed day :)
