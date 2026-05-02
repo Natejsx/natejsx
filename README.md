@@ -21,9 +21,6 @@ I also worked as a Student Instructor for Programming I & II, providing one-on-o
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
-## Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Natejsx&theme=tokyonight)
-
 ## Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Natejsx&theme=tokyo-night)
 
