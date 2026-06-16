@@ -3,7 +3,7 @@ I’m a web developer focused on building intuitive user experiences, scalable s
 
 I’m currently pursuing a Bachelor’s degree in Computer Science, after earning my Associate of Science in Computer Science. During my time in college, I served as President of the Computer Science Organization, where I led workshops, collaborative projects, and community events designed to help students grow as software engineers.
 
-I also worked as a Student Instructor for Programming I & II, providing one-on-one support, debugging assistance, and clear explanations of core programming concepts. In this role, I developed hands-on exercises and mini-projects, delivered select lectures, and led lab sessions with live coding to help students bridge the gap between theory and real-world application. 
+I also worked as a Student Instructor for Python Programming, Object-Oriented Programming in C++, and Data Structures & Algorithms, providing one-on-one support, debugging assistance, and clear explanations of core programming concepts. In this role, I developed hands-on exercises and mini-projects, delivered select lectures, and led lab sessions with live coding to help students bridge the gap between theory and real-world application. 
 <br/>
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
